@@ -1,0 +1,12 @@
+Ejemplo de Json: 
+
+{
+	"id": 3,
+	"apellidos": "espinoza silva",
+	"celular": "+56944758613",
+	"email": "asdasdasdaasdasdassd",
+	"estado": true,
+	"nombres": "cristian eduardo",
+	"password": "asdasda",
+	"roles": []
+}
